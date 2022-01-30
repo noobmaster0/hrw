@@ -13,3 +13,6 @@ elements = () => {
   or
   write("html id","script id","css id")
 }
+
+to add the library add this to your html 
+<script src="https://noobmaster0.github.io/hrw/index.js"></script>
