@@ -11,7 +11,7 @@ elements = () => {
   
   write();
   or
-  write("html id","script id","css id")
+  write("html id","css id")
 }
 
 to add the library add this to your html 
