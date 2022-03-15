@@ -1,4 +1,4 @@
-# hrw
+# use
 HRW or HTML reactive writer is a javascript library that can write Reactive html a lot easier!
 Example
 elements = () => {
