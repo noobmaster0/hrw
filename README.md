@@ -2,10 +2,10 @@
 HRW or HTML reactive writer is a javascript library that can write Reactive html a lot easier!
 Example
 elements = () => {
-  H("p","Hello");//creates a p tag and sets it to hello.
+  HTM("p","Hello");//creates a p tag and sets it to hello.
   
   
-  C("p",`
+  CSS("p",`
   color:blue;
   `); //adds css
   
@@ -15,4 +15,4 @@ elements = () => {
 }
 
 to add the library add this to your html 
-<script src="https://noobmaster0.github.io/hrw/index.js"></script>
+<script src="https://noobmaster0.github.io/hrw/index.js "></script>
